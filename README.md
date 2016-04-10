@@ -53,8 +53,9 @@ select * from ccosql_group_role_capability  where group_role_name = 'Authors'
 ```
 
 Here's a sample output:
-<img src="https://lh3.googleusercontent.com/-jLts8PUGEs0/Vwp_G80z3xI/AAAAAAAAQSo/cH7ojbKB64g/s0/mstsc_2016-04-10_12-27-57.png
-" width="601" height="251">
+
+![alt tag](https://lh3.googleusercontent.com/-jLts8PUGEs0/Vwp_G80z3xI/AAAAAAAAQSo/cH7ojbKB64g/s0/mstsc_2016-04-10_12-27-57.png)
+
 
 Let's examine the fields:
 
